@@ -31,10 +31,6 @@ branch = "dynimage_width_height"
 version = "0.37"
 path = "../rawloader"
 
-[dependencies.multicache]
-version = "0.6.0"
-path = "../multicache"
-
 [profile.dev]
 opt-level = 3
 
